@@ -1,0 +1,14 @@
+# Abaikan file konfigurasi rahasia
+config_visit.php
+.env
+
+# Abaikan file sistem & editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Khusus folder Flutter (jika digabung atau di repo terpisah)
+build/
+.dart_tool/
+.packages
